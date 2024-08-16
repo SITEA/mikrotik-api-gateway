@@ -1,5 +1,5 @@
 {
-    "name": "nilsonpessim/mikrotik-api-gateway",
+    "name": "SITEA/mikrotik-api-gateway",
     "description": "MikroTik API Gateway",
     "license": "MIT",
     "autoload": {
@@ -12,9 +12,9 @@
     },
     "authors": [
         {
-            "name": "Nilson de Andrade Pessim",
-            "email": "nilson@techlabs.net.br",
-            "homepage": "https://techlabs.net.br",
+            "name": "SITEA-INFORMATICA",
+            "email": "info@sitea-informatica.com.ar",
+            "homepage": "https://sitea-informatica.com.ar",
             "role": "Developer"
         }
     ],
