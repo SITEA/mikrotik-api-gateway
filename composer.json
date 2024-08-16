@@ -1,0 +1,25 @@
+{
+    "name": "sitea/mikrotik-api-gateway",
+    "description": "MikroTik API Gateway",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        },
+        "files": [
+            "app.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "SITEA-INFORMATICA",
+            "email": "info@sitea-informatica.com.ar",
+            "homepage": "https://sitea-informatica.com.ar",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.0"
+    },
+    "minimum-stability": "dev"
+}
